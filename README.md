@@ -1,5 +1,18 @@
 <h1 align="center">NodeJS Project Trello Simulation</h1>
-<h3 align="center">ITI Course Project, the project is created using Express, Mongoose, dcrypt, nodemailler, Joi verification</h3>
+<h3 align="center">ITI Course Project, the project is created using:</h3>
+<ul>
+  <li>Express</li>
+ <li>Mongoose</li>
+  <li>dcrypt</li>
+ <li>  nodemailler
+</li>
+<li>Joi verification
+</li>
+</ul>
+  
+  
+  
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
